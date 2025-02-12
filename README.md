@@ -30,4 +30,4 @@ RIN 成立于2025年1月31日
 
 ## License
 
-The [ CC-BY-CC 4.0 ](LICENSE).
+The [ CC BY-NC 4.0 ](LICENSE).
