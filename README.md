@@ -30,4 +30,4 @@ RIN 成立于2025年1月31日
 
 ## License
 
-The [ CC BY-NC 4.0 ](LICENSE).
+This work is licensed under CC BY-NC 4.0 
